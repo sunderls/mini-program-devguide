@@ -1,0 +1,2 @@
+# Introduction and Development Environment
+Mini Program is a new way to connect users and services, it is used and shared directly in WeChat, which has an excellent user experience. Any developers can create their own their mini programs after learning some basics.
