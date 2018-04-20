@@ -48,6 +48,10 @@
         * [3.2.1 Program](chapter-3/3.2.1 Program.md)
         * [3.2.2 Page](chapter-3/3.2.2 Page.md)
     * [3.3 Component](chapter-3/3.3 Component.md)
+    * [3.4 API](chapter-3/3.4 API.md)
+    * [3.5 Events](chapter-3/3.5 Events.md)
+    * [3.6 Compatibility](chapter-3/3.6 Compatibility.md)
+    * [3.7 Summary](chapter-3/3.7 Summary.md)
 
 
         
