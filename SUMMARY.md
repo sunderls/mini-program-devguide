@@ -52,6 +52,8 @@
     * [3.5 Events](chapter-3/3.5 Events.md)
     * [3.6 Compatibility](chapter-3/3.6 Compatibility.md)
     * [3.7 Summary](chapter-3/3.7 Summary.md)
+* [4 Case Study](chapter-4/README.md)
+    * [4.1 Basic development flow](chapter-4/4.1 Basic development flow.md)
 
 
         
