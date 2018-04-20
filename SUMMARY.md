@@ -51,6 +51,7 @@
     * [3.4 API](chapter-3/3.4 API.md)
     * [3.5 Events](chapter-3/3.5 Events.md)
     * [3.6 Compatibility](chapter-3/3.6 Compatibility.md)
+    * [3.7 Summary](chapter-3/3.7 Summary.md)
 
 
         
