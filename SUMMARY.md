@@ -54,6 +54,7 @@
     * [3.7 Summary](chapter-3/3.7 Summary.md)
 * [4 Case Study](chapter-4/README.md)
     * [4.1 Basic development flow](chapter-4/4.1 Basic development flow.md)
+    * [4.2 Basic Layout - Flex](chapter-4/4.2 Basic Layout - Flex.md)
 
 
         
