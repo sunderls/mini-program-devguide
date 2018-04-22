@@ -55,6 +55,10 @@
 * [4 Case Study](chapter-4/README.md)
     * [4.1 Basic development flow](chapter-4/4.1 Basic development flow.md)
     * [4.2 Basic Layout - Flex](chapter-4/4.2 Basic Layout - Flex.md)
+    * [4.3 Common User Interactions](chapter-4/4.3 Common User Interactions.md)
+        * [4.3.1 Touch Feedback](chapter-4/4.3.1 Touch Feedback.md)
+        * [4.3.2 Toast and Modal](chapter-4/4.3.2 Toast and Modal.md)
+
 
 
         
