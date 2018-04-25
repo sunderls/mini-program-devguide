@@ -58,10 +58,14 @@
     * [4.3 Common User Interactions](chapter-4/4.3 Common User Interactions.md)
         * [4.3.1 Touch Feedback](chapter-4/4.3.1 Touch Feedback.md)
         * [4.3.2 Toast and Modal](chapter-4/4.3.2 Toast and Modal.md)
-
-
-
-        
+        * [4.3.3 Page Scroll](chapter-4/4.3.3 Page Scroll.md)
+    * [4.4 HTTPS request](chapter-4/4.4 HTTPS request.md)
+        * [4.4.1 wx.request](chapter-4/4.4.1 wx.request.md)
+        * [4.4.2 Server API](chapter-4/4.4.2 Server API.md)
+        * [4.4.3 Request Parameters](chapter-4/4.4.3 Request Parameters.md)
+        * [4.4.4 About Response](chapter-4/4.4.4 About Response.md)
+        * [4.4.5 Some Tips](chapter-4/4.4.5 Some Tips.md)
+        * [4.4.6 Debugging](chapter-4/4.4.6 Debugging.md)
 
 
 
